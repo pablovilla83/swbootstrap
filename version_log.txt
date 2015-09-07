@@ -1,0 +1,27 @@
+- V1.0 22.10.2014 Original Release
+
+- V1.1 11.11.2014 Changes in coder package
+    - added bootstrap 3.3.0 support
+    - added LESS Files 
+    - fix dropdown navbar divider gray color insider colored navbars
+    - fix navbar collapse issue when window is resizing
+
+- V1.2 09.12.2014 Changes in coder package
+    - added 6 page examples (Home, Ecommerce, About Us, Contact Us, Pricing and Blog)
+    - small fix for dropdown with one item
+ 
+- V1.3 27.01.2015 Changes in Coder Package
+    - added 2 page examples (Product Page, Blog Post)
+    - added page with all components
+    - update stroke icons, now there are 200+ icons
+    - fix .btn class in navbar
+    - added “Flexisel” js library for better images carousel
+
+- V1.3.1 26.05.2015 Bugfixing
+    - input-group-addons class fix focus
+    - input-group button fix 
+    - fix issue on dropdown select
+
+-V1.3.2 09.06.2015 Bugfixing
+    - disabled button fix style
+    - input radio fix for disabled inputs
